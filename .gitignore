@@ -1,0 +1,5 @@
+# Ignore these folder contents except for the .gitkeep files
+/original-dataset/*.csv
+/cleaned-dataset/*.csv
+/analysis/*.csv
+/analysis/*.png
